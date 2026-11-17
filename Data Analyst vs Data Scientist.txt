@@ -1,0 +1,129 @@
+
+    Data Analyst                                   Data Scientist
+   --->Python Programming Language                 --->Python Programming Language
+         Classes                                   --->Statistics
+         NumPy,Pandas,Matplotlib libraries         --->Machine Learning
+   ---->Advanced Excel                                    scikit learn  (supervised,unsupervised)
+   ---->Visualization Tools                        --->Some basics Deep Learning,NLP
+          --->Power BI
+          --->Tableau
+         Reporting
+
+
+
+Data Analyst Road Map:
+     Data Scinentist/Data Analyst
+
+    1.Requirements Gathering
+         a.Domain Experts/Product Owner
+            domains: Health care,Finance,Retail,Marketing
+         b.Business Analyst
+   
+    2.Collect Data
+        Data will be available from diff. sources
+         structured----->SQL Databases
+         unstructured--->.json files
+         .csv,.xls,.parquet files    
+
+    3.Feature Engineering
+        --->Which feature(column of data) is relavant,which is not relavant
+      
+    4.Data Cleaning
+       ---->Whether the data is in proper format or not
+             remove irrelavt data
+       ---->Missing Values
+            replace missing values with mean/median
+  
+    5.EDA(Exploratory Data Analysis)
+       ---->How one feature will be changed with respect to other feature
+             ex:
+                     Marketing----->More    
+                     Profit ratio--->More
+      matplotlib:
+          bar,histograms,scatter plots,box plots 
+        
+      Outlier Analysis:
+          --->The value which must be out of range/below of given range
+
+     6.Databases: 
+        --->MySQL
+                     --->SQL Server
+        --->Oracle
+
+       directly connect to sql server from reporting tool(power bi)
+
+      7.Visualization Tools:
+         Power BI
+         Tableau
+           BI Tools
+         --->Graphs,Tables,Summary
+         Product Manager--->Profit/Loss---->Strategic Decision
+
+     
+
+ 
+
+Data Scientist RoadMap:
+    1.Business Problem definition
+        telecom industry
+          airtel,jio,idea
+
+        no.of subcribers switch to one network to other network
+          
+    2.Data Gathering
+    3.Data Cleaning
+        --->missing values,outliers,features,duplicates
+    4.EDA
+    ----------------------------------------------------------
+    5.Choose ML Model
+                    labeled data--->  features,target
+      categorical data--->
+          diabetes or not,cancer or not,male or female
+             yes/no
+         Classification Models---->Logistic Regression,SVM,Decision Trees,Random Forest
+
+
+      continues data---->
+            House price Prediction--->no.of rooms,sq.ft,locality
+                       120000,300000
+             Regression--->Linear,Multi-Linear,Polynomial,Lasso,Ridge,Elastic net
+
+          unlabeled data:  target,don't provide info regarding features
+
+      Clustering----> grouping
+            --->group the data into clusters
+
+      6.Model Building
+          ---->we have to divide the data into some parts
+               --->training
+                      fit the model on training data
+                      accuracy
+               --->testing
+                      whatever the model you built on training data must be validated
+                      unseen data(testing data)
+      7.Suggest Model will give better accuracy
+
+       Note:   Prediction:
+
+            
+      
+       
+      
+
+
+    
+  
+
+        
+
+            
+
+    
+
+
+
+
+
+
+
+
